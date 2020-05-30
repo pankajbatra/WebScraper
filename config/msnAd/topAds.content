@@ -1,0 +1,3 @@
+Title=/html/body/div[@id='content']/div[@id='results_area']/div[@id='ads_topC']/ul/li/h3/a
+Content=/html/body/div[@id='content']/div[@id='results_area']/div[@id='ads_topC']/ul/li/p
+URL=/html/body/div[@id='content']/div[@id='results_area']/div[@id='ads_topC']/ul/li/h3/span

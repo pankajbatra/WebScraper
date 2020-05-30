@@ -1,0 +1,4 @@
+Title=/html/body/div[@id='content']/div[@id='results_area']/div[@id='sidebar']/div[@id='ads_rightC']/ul/li/h3/a
+Content=/html/body/div[@id='content']/div[@id='results_area']/div[@id='sidebar']/div[@id='ads_rightC']/ul/li/p[@class='first']
+URL=/html/body/div[@id='content']/div[@id='results_area']/div[@id='sidebar']/div[@id='ads_rightC']/ul/li/p[2]
+
